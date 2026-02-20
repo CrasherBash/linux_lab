@@ -13,6 +13,7 @@ To use help utilities like man and --help
 To improve efficiency using auto-completion
 
 **Theory**
+
 Linux Command Line Interface (CLI)
 
 The Linux CLI allows interaction with the operating system using commands. It provides faster and more powerful control compared to graphical interfaces, especially for system administration and automation tasks.

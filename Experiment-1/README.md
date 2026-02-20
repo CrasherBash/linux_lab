@@ -1,6 +1,6 @@
 **Experiment Aim**:
 
-****To install and run a Linux virtual machine using virtualization software and verify its successful booting.****
+To install and run a Linux virtual machine using virtualization software and verify its successful booting.
 
 **Objective**
 

@@ -79,7 +79,9 @@ Step 11: After that, practiced auto-completion using the Tab key.
 Step 12: Finally, cleared the terminal screen:
 
 clear
+
 **Configuration Commands**
+
 pwd
 
 ls

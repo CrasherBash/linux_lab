@@ -26,19 +26,25 @@ Step 2: Then, opened the Terminal.
 Step 3: After that, executed basic system commands:
 
 pwd
+
 ls
+
 whoami
+
 date
+
 uptime
 
 Step 4: Then, navigated directories using:
 
 cd /home
+
 cd ~
 
 Step 5: After that, used manual pages to understand commands:
 
 man ls
+
 man cd
 
 Step 6: Then, exited the manual page using the q key.
@@ -46,21 +52,25 @@ Step 6: Then, exited the manual page using the q key.
 Step 7: After that, used help options:
 
 ls --help
+
 systemctl --help
 
 Step 8: Then, checked system run level / target:
 
 runlevel
+
 systemctl get-default
 
 Step 9: After that, switched system targets:
 
 systemctl isolate multi-user.target
+
 systemctl isolate graphical.target
 
 Step 10: Then, used classic runlevel commands:
 
 sudo init 3
+
 sudo init 5
 
 Step 11: After that, practiced auto-completion using the Tab key.
@@ -70,15 +80,25 @@ Step 12: Finally, cleared the terminal screen:
 clear
 **Configuration Commands**
 pwd
+
 ls
+
 cd
+
 whoami
+
 date
+
 uptime
+
 man
+
 systemctl
+
 runlevel
+
 clear
+
 **Results**
 
 Basic Linux commands executed successfully

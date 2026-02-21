@@ -72,11 +72,6 @@ To perform file and directory management in Linux and understand file permission
 
 ## 📸Results 
 
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x450?text=Insert+Terminal+Screenshot+Here" alt="Linux Lab Results" />
-</p>
-
 * Files and directories were created successfully.
 * Text files were edited and saved using both `nano` and `vi`.
 * File permissions were successfully modified and verified.
